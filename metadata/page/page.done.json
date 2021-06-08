@@ -1,0 +1,8 @@
+{
+  "_id": "page.done",
+  "_type": "page.confirmation",
+  "body": "If you're lucky, this may send an email to us",
+  "heading": "Thanks for saying hi!",
+  "lede": "You're all done",
+  "url": "done"
+}
